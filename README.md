@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on java spring boot
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning Reactjs
 <!--
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musayyibrao&show_icons=true&locale=en&layout=compact" alt="musayyibrao" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MusayyibRao&&show_icons=true&title_color=FF0000&icon_color=FFFFFF&text_color=000000&bg_color=C0C0C0"/>
 
